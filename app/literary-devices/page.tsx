@@ -41,7 +41,7 @@ export default function LiteraryDevices() {
       <Container maxW={'8xl'} py={12}>
       <SimpleGrid columns={{ base: 1, md: 2 }} spacing={10}>
         <Flex>
-        <iframe src="https://docs.google.com/document/d/e/2PACX-1vSXSwr8cky7CYQNPoOYi32ffM7olmGDHGxSjdNpk2R64oy3aCSuLfu1jDtskg70JTUjpx4GMdk55pjI/pub?embedded=true" width="99999999" height="400"></iframe>
+        <iframe src="https://docs.google.com/document/d/e/2PACX-1vQuq-mhdBX2YBHtDnqduLagRKG0oh0PBNxvDy7uCuIg5EFDc6sxiWl3lSHJln2iYiGecwwTfGPBGEAZ/pub?embedded=true" width="99999999" height="400"></iframe>
         </Flex>
         <Stack spacing={2}>
           <Text
@@ -55,15 +55,13 @@ export default function LiteraryDevices() {
             rounded={'md'}>
             My Work
           </Text>
-          <Heading>Essay Title</Heading>
+          <Heading>My Mom, My Hero by Avner</Heading>
           <Text color={'gray.500'} fontSize={'lg'}>
             Short description of essay. Remember to change the iframe link!
           </Text>
         </Stack>
-        
       </SimpleGrid>
     </Container>
-      
     </>
   )
 }
