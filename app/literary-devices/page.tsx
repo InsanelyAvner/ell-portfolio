@@ -62,11 +62,11 @@ export default function LiteraryDevices() {
             <Heading>My Mom, My Hero by Avner</Heading>
             <Text color={"gray.500"} fontSize={"lg"}>
               This is a short story whete the protagonist/child gradually
-              realizes the superhero hidden in their mother's love for them, as
-              they come to appreciate her sacrifices and selflessness. The story
-              employs literary devices such as metaphors, personification, and
-              imagery to convey the depth of the mother's love and the child's
-              transformation.
+              realizes the superhero hidden in their mother&apos;s love for
+              them, as they come to appreciate her sacrifices and selflessness.
+              The story employs literary devices such as metaphors,
+              personification, and imagery to convey the depth of the
+              mother&apos;s love and the child&apos;s transformation.
             </Text>
           </Stack>
         </SimpleGrid>
@@ -80,16 +80,16 @@ export default function LiteraryDevices() {
             <Heading fontSize={"3xl"}>Reflection</Heading>
             <Text color={"gray.600"} fontSize={"md"}>
               In the narrative, I utilized literary devices such as metaphors,
-              imagery, and personification to enhance the story's depth and
-              emotional impact. The metaphor of the mother as a 'superhero' and
-              her love as 'invisible armour' helped to emphasize her selfless
-              sacrifices and enduring love. This metaphor also contributed to
-              the characterization of the mother, portraying her as a strong,
-              resilient figure. Furthermore, the imagery of the rain and the
-              umbrella added to the atmosphere, symbolizing cleansing and
-              protection respectively. These elements together supported the
-              theme of unrecognized heroism and the transformative power of
-              understanding and appreciation.
+              imagery, and personification to enhance the story&apos;s depth and
+              emotional impact. The metaphor of the mother as a
+              &apos;superhero&apos; and her love as &apos;invisible armour&apos;
+              helped to emphasize her selfless sacrifices and enduring love.
+              This metaphor also contributed to the characterization of the
+              mother, portraying her as a strong, resilient figure. Furthermore,
+              the imagery of the rain and the umbrella added to the atmosphere,
+              symbolizing cleansing and protection respectively. These elements
+              together supported the theme of unrecognized heroism and the
+              transformative power of understanding and appreciation.
             </Text>
           </Stack>
         </Box>
