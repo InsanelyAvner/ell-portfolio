@@ -1,4 +1,5 @@
 "use client";
+import Link from "next/link";
 import RootLayout from "../layout";
 import Hero from "@/components/HeroSection";
 import Features from "@/components/Features";
@@ -15,6 +16,7 @@ import {
   StackDivider,
   Icon,
   useColorModeValue,
+  Button,
 } from "@chakra-ui/react";
 
 export default function LiteraryDevices() {
@@ -41,9 +43,9 @@ export default function LiteraryDevices() {
         <SimpleGrid columns={{ base: 1, md: 2 }} spacing={10}>
           <Flex>
             <iframe
-              src="https://docs.google.com/document/d/e/2PACX-1vQuq-mhdBX2YBHtDnqduLagRKG0oh0PBNxvDy7uCuIg5EFDc6sxiWl3lSHJln2iYiGecwwTfGPBGEAZ/pub?embedded=true"
+              src="https://drive.google.com/file/d/1p8YS9c4vorekyho6t6WHd1SobBR802wiDS4XirG4TmQ/preview"
               width="99999999"
-              height="400"
+              height="500"
             ></iframe>
           </Flex>
           <Stack spacing={2}>
@@ -59,14 +61,10 @@ export default function LiteraryDevices() {
             >
               My Work
             </Text>
-            <Heading>My Mom, My Hero by Avner</Heading>
-            <Text color={"gray.500"} fontSize={"lg"}>
-              This is a short story whete the protagonist/child gradually
-              realizes the superhero hidden in their mother&apos;s love for
-              them, as they come to appreciate her sacrifices and selflessness.
-              The story employs literary devices such as metaphors,
-              personification, and imagery to convey the depth of the
-              mother&apos;s love and the child&apos;s transformation.
+            <Heading>Turning Thirteen</Heading>
+            <Text color={"gray.500"} fontSize={"lg"} mb="20">
+              This poem centres around the loss of innocence while transitioning
+              from childhood to adolescence.
             </Text>
           </Stack>
         </SimpleGrid>
@@ -79,17 +77,18 @@ export default function LiteraryDevices() {
           >
             <Heading fontSize={"3xl"}>Reflection</Heading>
             <Text color={"gray.600"} fontSize={"md"}>
-              In the narrative, I utilized literary devices such as metaphors,
-              imagery, and personification to enhance the story&apos;s depth and
-              emotional impact. The metaphor of the mother as a
-              &apos;superhero&apos; and her love as &apos;invisible armour&apos;
-              helped to emphasize her selfless sacrifices and enduring love.
-              This metaphor also contributed to the characterization of the
-              mother, portraying her as a strong, resilient figure. Furthermore,
-              the imagery of the rain and the umbrella added to the atmosphere,
-              symbolizing cleansing and protection respectively. These elements
-              together supported the theme of unrecognized heroism and the
-              transformative power of understanding and appreciation.
+              In &quot;Turning Thirteen&quot;, I used metaphors and imagery as
+              primary literary devices. The metaphor of &quot;a wilted
+              rose&quot; represents the speaker&lsquo;s fading youth, while the
+              imagery of &quot;autumn&lsquo;s leaves&quot; and &quot;shadows
+              dance&quot; portray the melancholic atmosphere and setting. This
+              metaphor and imagery contribute to characterisation, displaying
+              the speaker&lsquo;s apprehension towards growing up. The thematic
+              message, the inevitable passage of time and loss of innocence, is
+              enhanced by the metaphor of &quot;Time&lsquo;s river&quot;. The
+              setting is a symbolic &quot;twilight&quot;, transitioning from day
+              to night, mirroring the speaker&lsquo;s transition into
+              adolescence.
             </Text>
           </Stack>
         </Box>
