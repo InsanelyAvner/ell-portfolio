@@ -76,8 +76,8 @@ export default function LiteraryDevices() {
               This is a short narrative which explores the complex theme of
               &quot;parent-child relationships&quot;
             </Text>
-            <div />
-            <div />
+            <div></div>
+            <div></div>
             <Link
               target="_blank"
               href="https://docs.google.com/document/d/1PuKrJ3uWBBBmUcKjJjE86mmqdqzt2RNBejwKij69Ur0/edit?usp=sharing"
@@ -97,20 +97,20 @@ export default function LiteraryDevices() {
           >
             <Heading fontSize={"3xl"}>Reflection</Heading>
             <Text color={"gray.600"} fontSize={"md"}>
-              My narrative, "My Mom, My Hero," explores the theme of
+              My narrative, &quot;My Mom, My Hero,&quot; explores the theme of
               parent-child relationships, focusing on the often-unseen
               sacrifices made by parents. I highlight the often unnoticed
               sacrifices parents make for their children through the
-              protagonist's increasing awareness of his mother's efforts.
-              Characterisation was crucial, with the mother's actions
-              illustrating her sacrifice and the protagonist's changing
-              perspective emphasizing his developing understanding. The theme is
-              further developed through the narrative's conflict, a crucial
-              argument that leads to an epiphany. The rain-soaked setting serves
-              as a backdrop for the protagonist's realization, with the gloomy
-              mood emphasizing the emotional intensity. The metaphor of the
-              mother as a "superhero" emphasizes the narrative's thematic
-              message.
+              protagonist&apos;s increasing awareness of his mother&apos;s
+              efforts. Characterisation was crucial, with the mother&apos;s
+              actions illustrating her sacrifice and the protagonist&apos;s
+              changing perspective emphasizing his developing understanding. The
+              theme is further developed through the narrative&apos;s conflict,
+              a crucial argument that leads to an epiphany. The rain-soaked
+              setting serves as a backdrop for the protagonist&apos;s
+              realization, with the gloomy mood emphasizing the emotional
+              intensity. The metaphor of the mother as a &quot;superhero&quot;
+              emphasizes the narrative&apos;s thematic message.
             </Text>
           </Stack>
         </Box>
