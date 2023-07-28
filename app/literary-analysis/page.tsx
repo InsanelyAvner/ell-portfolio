@@ -44,7 +44,7 @@ export default function LiteraryAnalysis() {
       <Container maxW={"8xl"} py={12}>
         <SimpleGrid columns={{ base: 1, md: 2 }} spacing={10}>
           <Stack spacing={2}>
-            <Heading>Draft LA on &quot;On Turning Ten"&quot;</Heading>
+            <Heading>Draft LA on &quot;On Turning Ten&quot;</Heading>
             <Flex>
               <iframe
                 src="https://drive.google.com/file/d/100CTGtuLiq5hDRVjdR_qwtj2QrqQhsXPC8AGT_MMat0/preview"
@@ -90,8 +90,8 @@ export default function LiteraryAnalysis() {
               missed the opportunity to discuss the repetition of
               &quot;something&quot; which establishes a feeling of dread. The
               new draft provides an improved analysis by looking closely at the
-              metaphors, repetition, and word choice to reveal the persona's
-              perspective.
+              metaphors, repetition, and word choice to reveal the
+              persona&apos;s perspective.
             </Text>
           </Stack>
         </Box>
