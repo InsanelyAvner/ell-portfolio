@@ -83,11 +83,11 @@ export default function LiteraryDevices() {
               imagery of &quot;autumn&lsquo;s leaves&quot; and &quot;shadows
               dance&quot; portray the melancholic atmosphere and setting. This
               metaphor and imagery contribute to characterisation, displaying
-              the speaker&lsquo;s apprehension towards growing up. The thematic
+              the persona&lsquo;s apprehension towards growing up. The thematic
               message, the inevitable passage of time and loss of innocence, is
               enhanced by the metaphor of &quot;Time&lsquo;s river&quot;. The
               setting is a symbolic &quot;twilight&quot;, transitioning from day
-              to night, mirroring the speaker&lsquo;s transition into
+              to night, mirroring the persona&lsquo;s transition into
               adolescence.
             </Text>
           </Stack>

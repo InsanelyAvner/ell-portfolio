@@ -19,7 +19,7 @@ import {
   Button,
 } from "@chakra-ui/react";
 
-export default function LiteraryDevices() {
+export default function Themes() {
   return (
     <>
       <Container maxW={"3xl"}>

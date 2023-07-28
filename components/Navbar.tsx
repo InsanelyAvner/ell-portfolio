@@ -248,6 +248,6 @@ const NAV_ITEMS: Array<NavItem> = [
   },
   {
     label: "Section 3: The Literary Analysis Essay",
-    href: "#",
+    href: "/literary-analysis",
   },
 ];
