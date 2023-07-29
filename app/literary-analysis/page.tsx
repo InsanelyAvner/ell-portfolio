@@ -65,11 +65,14 @@ export default function LiteraryAnalysis() {
           </Stack>
         </SimpleGrid>
         <Box pt="15px">
-          <Alert status="info">
-            <AlertIcon />
-            Question: Analyse how the imagery in this poem presents growing up
-            as a process which fills the persona with dread and sadness.
-          </Alert>
+          <Link
+            target="_blank"
+            href=" https://drive.google.com/file/d/1GjqBNjJp9i56xmWBzVOy0SEU91FlITyj/view?usp=sharing"
+          >
+            <Button colorScheme="green" size="md" maxW="600px">
+              View the poem 'On Turning Ten'
+            </Button>
+          </Link>
         </Box>
 
         <Box bg={"#F7FAFC"} mt="20" pt="30px" pb="30px" borderRadius="15">

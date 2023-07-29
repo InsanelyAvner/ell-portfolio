@@ -56,7 +56,7 @@ export default function Themes() {
           <Stack spacing={2}>
             <Text
               textTransform={"uppercase"}
-              color={"blue.400"}
+              color={"green.400"}
               fontWeight={600}
               fontSize={"sm"}
               bg={useColorModeValue("blue.50", "blue.900")}
@@ -66,11 +66,6 @@ export default function Themes() {
             >
               My Work
             </Text>
-            {/* <Heading>Turning Thirteen</Heading>
-            <Text color={"gray.500"} fontSize={"lg"} mb="20">
-              This poem centres around the loss of innocence while transitioning
-              from childhood to adolescence.
-            </Text> */}
             <Heading>My Mom, My Hero by Avner (rewritten)</Heading>
             <Text color={"gray.500"} fontSize={"lg"} mb="20">
               This is a short narrative which explores the complex theme of
@@ -82,7 +77,7 @@ export default function Themes() {
               target="_blank"
               href="https://docs.google.com/document/d/1PuKrJ3uWBBBmUcKjJjE86mmqdqzt2RNBejwKij69Ur0/edit?usp=sharing"
             >
-              <Button colorScheme="blue" size="md" maxW="200px">
+              <Button colorScheme="green" size="md" maxW="200px">
                 View Draft
               </Button>
             </Link>

@@ -51,7 +51,7 @@ export default function LiteraryDevices() {
           <Stack spacing={2}>
             <Text
               textTransform={"uppercase"}
-              color={"blue.400"}
+              color={"green.400"}
               fontWeight={600}
               fontSize={"sm"}
               bg={useColorModeValue("blue.50", "blue.900")}
@@ -63,8 +63,12 @@ export default function LiteraryDevices() {
             </Text>
             <Heading>Turning Thirteen</Heading>
             <Text color={"gray.500"} fontSize={"lg"} mb="20">
-              This poem centres around the loss of innocence while transitioning
-              from childhood to adolescence.
+              &quot;Turning Thirteen&quot; is a poignant exploration of the
+              turbulent journey from childhood to adolescence. The persona feels
+              a deep sense of loss and fear as he faces the unknown future.
+              However, there is also a glimmer of curiosity and freedom amidst
+              the melancholy. The poem beautifully captures the conflicting
+              emotions of growing up.
             </Text>
           </Stack>
         </SimpleGrid>
@@ -77,18 +81,20 @@ export default function LiteraryDevices() {
           >
             <Heading fontSize={"3xl"}>Reflection</Heading>
             <Text color={"gray.600"} fontSize={"md"}>
-              In &quot;Turning Thirteen&quot;, I used metaphors and imagery as
-              primary literary devices. The metaphor of &quot;a wilted
-              rose&quot; represents the speaker&lsquo;s fading youth, while the
-              imagery of &quot;autumn&lsquo;s leaves&quot; and &quot;shadows
-              dance&quot; portray the melancholic atmosphere and setting. This
-              metaphor and imagery contribute to characterisation, displaying
-              the persona&lsquo;s apprehension towards growing up. The thematic
-              message, the inevitable passage of time and loss of innocence, is
-              enhanced by the metaphor of &quot;Time&lsquo;s river&quot;. The
-              setting is a symbolic &quot;twilight&quot;, transitioning from day
-              to night, mirroring the persona&lsquo;s transition into
-              adolescence.
+              I used iambic tetrameter to mimic a heartbeat, conveying the
+              heart-beating journey to adolescence. Metaphors like
+              &lsquo;river&rsquo; and &lsquo;thunder&rsquo; captured feeling
+              overwhelmed, while personification of &lsquo;shadows dance&rsquo;
+              and &lsquo;ghosts of yore&rsquo; illustrated fear which
+              characterised the persona. Irony like &lsquo;bittersweet&rsquo;
+              and &lsquo;mournful run&rsquo; delivered the thematic message of
+              conflicting emotions about leaving childhood and entering
+              adolescence. Imagery of nature like 'autumn leaves,' 'twilight,'
+              and 'fickle grass' showed growing up is an unavoidable natural
+              progression, creating a melancholic atmosphere. Overall, through
+              these literary devices I aimed to convey the persona's perspective
+              of the difficulties and anxieties of entering adolescence from
+              childhood.
             </Text>
           </Stack>
         </Box>

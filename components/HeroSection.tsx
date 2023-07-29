@@ -1,11 +1,5 @@
-import Head from "next/head"
-import {
-  Box,
-  Heading,
-  Container,
-  Text,
-  Stack,
-} from "@chakra-ui/react"
+import Head from "next/head";
+import { Box, Heading, Container, Text, Stack } from "@chakra-ui/react";
 
 export default function Hero() {
   return (
@@ -29,16 +23,20 @@ export default function Hero() {
             fontSize={{ base: "2xl", sm: "4xl", md: "6xl" }}
             lineHeight={"110%"}
           >
-            Avner&apos;s<br />
+            Avner&apos;s
+            <br />
+            <div style={{ height: "10px" }} />
             <Text as={"span"} color={"green.400"}>
               ELL Portfolio
             </Text>
           </Heading>
-          <Text color={"gray.500"}>
-            Just a minimalist website showcasing my creative works. My hope is that this site will effectively display my work in a useful manner. I strive to design the site well so that it best represents my work.
+          <Text color={"gray.500"} fontSize={"lg"}>
+            Hello, welcome to my English Language and Literature (ELL) portfolio
+            website! Here, I am thrilled to present my journey and progress in
+            mastering the English language.
           </Text>
         </Stack>
       </Container>
     </>
-  )
+  );
 }
