@@ -89,10 +89,10 @@ export default function LiteraryDevices() {
               characterised the persona. Irony like &lsquo;bittersweet&rsquo;
               and &lsquo;mournful run&rsquo; delivered the thematic message of
               conflicting emotions about leaving childhood and entering
-              adolescence. Imagery of nature like 'autumn leaves,' 'twilight,'
-              and 'fickle grass' showed growing up is an unavoidable natural
+              adolescence. Imagery of nature like &apos;autumn leaves,&apos; &apos;twilight,&apos;
+              and &apos;fickle grass&apos; showed growing up is an unavoidable natural
               progression, creating a melancholic atmosphere. Overall, through
-              these literary devices I aimed to convey the persona's perspective
+              these literary devices I aimed to convey the persona&apos;s perspective
               of the difficulties and anxieties of entering adolescence from
               childhood.
             </Text>

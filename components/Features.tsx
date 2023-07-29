@@ -59,7 +59,7 @@ export default function SplitWithImage() {
           >
             About
           </Text>
-          <Heading>Hello, I'm Avner</Heading>
+          <Heading>Hello, I&apos;m Avner</Heading>
           <Text color={"gray.500"}>
             Leveraging my passion for coding, I have built this website from
             scratch to showcase my pursuit of originality and creativity. The

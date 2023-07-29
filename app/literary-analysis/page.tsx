@@ -44,7 +44,7 @@ export default function LiteraryAnalysis() {
       <Container maxW={"8xl"} py={12}>
         <SimpleGrid columns={{ base: 1, md: 2 }} spacing={10}>
           <Stack spacing={2}>
-            <Heading>Draft LA on &quot;On Turning Ten&quot;</Heading>
+            <Heading>Draft LA on &apos;On Turning Ten&apos;</Heading>
             <Flex>
               <iframe
                 src="https://drive.google.com/file/d/100CTGtuLiq5hDRVjdR_qwtj2QrqQhsXPC8AGT_MMat0/preview"
@@ -54,7 +54,7 @@ export default function LiteraryAnalysis() {
             </Flex>
           </Stack>
           <Stack spacing={2}>
-            <Heading>Rewritten LA on &quot;On Turning Ten&quot;</Heading>
+            <Heading>Rewritten LA on &apos;On Turning Ten&apos;</Heading>
             <Flex>
               <iframe
                 src="https://drive.google.com/file/d/1fU2vD8zgE2_jrOY2uJJs1SKDPb49bCY-axAyGH-GrCQ/preview"
@@ -70,7 +70,7 @@ export default function LiteraryAnalysis() {
             href=" https://drive.google.com/file/d/1GjqBNjJp9i56xmWBzVOy0SEU91FlITyj/view?usp=sharing"
           >
             <Button colorScheme="green" size="md" maxW="600px">
-              View the poem 'On Turning Ten'
+              View the poem &apos;On Turning Ten&apos;
             </Button>
           </Link>
         </Box>
