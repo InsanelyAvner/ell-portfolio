@@ -63,13 +63,13 @@ export default function LargeWithLogoLeft() {
           </Stack>
           <Stack align={"flex-start"}>
             <ListHeader>Quick Links</ListHeader>
-            <Box as="a" href={"#"}>
+            <Box as="a" href={"/literary-devices"}>
               Literary Devices
             </Box>
-            <Box as="a" href={"#"}>
+            <Box as="a" href={"/themes"}>
               Themes
             </Box>
-            <Box as="a" href={"#"}>
+            <Box as="a" href={"/literary-analysis"}>
               Literary Analysis
             </Box>
           </Stack>

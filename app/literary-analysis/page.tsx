@@ -64,6 +64,14 @@ export default function LiteraryAnalysis() {
             </Flex>
           </Stack>
         </SimpleGrid>
+        <Box pt="21px">
+          <Alert status="info">
+            <AlertIcon />
+            Analyse how the imagery in this poem presents growing up as a
+            process which fills the persona with dread and sadness.
+          </Alert>
+        </Box>
+
         <Box pt="15px">
           <Link
             target="_blank"

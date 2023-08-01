@@ -63,23 +63,13 @@ export default function LiteraryDevices() {
             </Text>
             <Heading>Turning Thirteen</Heading>
             <Text color={"gray.500"} fontSize={"lg"} mb="20">
-              I aimed to express the persona&apos;s perspective of the
-              difficulties and anxieties of entering adolescence from childhood
-              through the use of metaphors, personification, imagery with a
-              touch of irony. Metaphors such as &apos;river&apos; and
-              &apos;thunder&apos; effectively conveyed a sense of being
-              overwhelmed, while the personification of &apos;shadows
-              dance&apos; and &apos;ghosts of yore&apos; illustrated the fear
-              that characterised the persona. Irony like ‘bittersweet’ and
-              ‘mournful run’ delivered the thematic message of conflicting
-              emotions. The use of nature&apos;s imagery like &apos;autumn
-              leaves,&apos; and &apos;twilight&apos; highlighted the idea that
-              transition was an inevitable part of growing up while creating a
-              melancholic atmosphere. <b>(99 words)</b>
+              My poem, &quot;Turning Thirteen&quot;, is a poignant exploration
+              of the turbulent journey from childhood to adolescence which
+              beautifully captures the conflicting emotions of growing up.
             </Text>
           </Stack>
         </SimpleGrid>
-        {/* <Box bg={"#F7FAFC"} mt="20" pt="30px" pb="30px" borderRadius="15">
+        <Box bg={"#F7FAFC"} mt="20" pt="30px" pb="30px" borderRadius="15">
           <Stack
             spacing={4}
             borderRadius="15"
@@ -100,10 +90,10 @@ export default function LiteraryDevices() {
               emotions. The use of nature&apos;s imagery like &apos;autumn
               leaves,&apos; and &apos;twilight&apos; highlighted the idea that
               transition was an inevitable part of growing up while creating a
-              melancholic atmosphere.
+              melancholic atmosphere. <b>(99 words)</b>
             </Text>
           </Stack>
-        </Box> */}
+        </Box>
       </Container>
     </>
   );
