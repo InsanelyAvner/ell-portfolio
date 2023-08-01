@@ -45,10 +45,10 @@ export default function LiteraryDevices() {
             <iframe
               src="https://drive.google.com/file/d/1p8YS9c4vorekyho6t6WHd1SobBR802wiDS4XirG4TmQ/preview"
               width="99999999"
-              height="500"
+              height="600"
             ></iframe>
           </Flex>
-          <Stack spacing={2}>
+          <Stack spacing={4}>
             <Text
               textTransform={"uppercase"}
               color={"green.400"}
@@ -63,16 +63,23 @@ export default function LiteraryDevices() {
             </Text>
             <Heading>Turning Thirteen</Heading>
             <Text color={"gray.500"} fontSize={"lg"} mb="20">
-              &quot;Turning Thirteen&quot; is a poignant exploration of the
-              turbulent journey from childhood to adolescence. The persona feels
-              a deep sense of loss and fear as he faces the unknown future.
-              However, there is also a glimmer of curiosity and freedom amidst
-              the melancholy. The poem beautifully captures the conflicting
-              emotions of growing up.
+              I aimed to express the persona&apos;s perspective of the
+              difficulties and anxieties of entering adolescence from childhood
+              through the use of metaphors, personification, imagery with a
+              touch of irony. Metaphors such as &apos;river&apos; and
+              &apos;thunder&apos; effectively conveyed a sense of being
+              overwhelmed, while the personification of &apos;shadows
+              dance&apos; and &apos;ghosts of yore&apos; illustrated the fear
+              that characterised the persona. Irony like ‘bittersweet’ and
+              ‘mournful run’ delivered the thematic message of conflicting
+              emotions. The use of nature&apos;s imagery like &apos;autumn
+              leaves,&apos; and &apos;twilight&apos; highlighted the idea that
+              transition was an inevitable part of growing up while creating a
+              melancholic atmosphere.
             </Text>
           </Stack>
         </SimpleGrid>
-        <Box bg={"#F7FAFC"} mt="20" pt="30px" pb="30px" borderRadius="15">
+        {/* <Box bg={"#F7FAFC"} mt="20" pt="30px" pb="30px" borderRadius="15">
           <Stack
             spacing={4}
             borderRadius="15"
@@ -81,23 +88,22 @@ export default function LiteraryDevices() {
           >
             <Heading fontSize={"3xl"}>Reflection</Heading>
             <Text color={"gray.600"} fontSize={"md"}>
-              I used iambic tetrameter to mimic a heartbeat, conveying the
-              heart-beating journey to adolescence. Metaphors like
-              &lsquo;river&rsquo; and &lsquo;thunder&rsquo; captured feeling
-              overwhelmed, while personification of &lsquo;shadows dance&rsquo;
-              and &lsquo;ghosts of yore&rsquo; illustrated fear which
-              characterised the persona. Irony like &lsquo;bittersweet&rsquo;
-              and &lsquo;mournful run&rsquo; delivered the thematic message of
-              conflicting emotions about leaving childhood and entering
-              adolescence. Imagery of nature like &apos;autumn leaves,&apos; &apos;twilight,&apos;
-              and &apos;fickle grass&apos; showed growing up is an unavoidable natural
-              progression, creating a melancholic atmosphere. Overall, through
-              these literary devices I aimed to convey the persona&apos;s perspective
-              of the difficulties and anxieties of entering adolescence from
-              childhood.
+              I aimed to express the persona&apos;s perspective of the
+              difficulties and anxieties of entering adolescence from childhood
+              through the use of metaphors, personification, imagery with a
+              touch of irony. Metaphors such as &apos;river&apos; and
+              &apos;thunder&apos; effectively conveyed a sense of being
+              overwhelmed, while the personification of &apos;shadows
+              dance&apos; and &apos;ghosts of yore&apos; illustrated the fear
+              that characterised the persona. Irony like ‘bittersweet’ and
+              ‘mournful run’ delivered the thematic message of conflicting
+              emotions. The use of nature&apos;s imagery like &apos;autumn
+              leaves,&apos; and &apos;twilight&apos; highlighted the idea that
+              transition was an inevitable part of growing up while creating a
+              melancholic atmosphere.
             </Text>
           </Stack>
-        </Box>
+        </Box> */}
       </Container>
     </>
   );

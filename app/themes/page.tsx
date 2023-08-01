@@ -92,20 +92,19 @@ export default function Themes() {
           >
             <Heading fontSize={"3xl"}>Reflection</Heading>
             <Text color={"gray.600"} fontSize={"md"}>
-              My narrative, &quot;My Mom, My Hero,&quot; explores the theme of
-              parent-child relationships, focusing on the often-unseen
-              sacrifices made by parents. I highlight the often unnoticed
-              sacrifices parents make for their children through the
-              protagonist&apos;s increasing awareness of his mother&apos;s
-              efforts. Characterisation was crucial, with the mother&apos;s
-              actions illustrating her sacrifice and the protagonist&apos;s
-              changing perspective emphasizing his developing understanding. The
-              theme is further developed through the narrative&apos;s conflict,
-              a crucial argument that leads to an epiphany. The rain-soaked
-              setting serves as a backdrop for the protagonist&apos;s
-              realization, with the gloomy mood emphasizing the emotional
-              intensity. The metaphor of the mother as a &quot;superhero&quot;
-              emphasizes the narrative&apos;s thematic message.
+              My narrative, &quot;My Mom, My Hero&quot;, explores the
+              parent-child relationship, focusing on the theme of a
+              mother&apos;s sacrificial and unconditional love. I&apos;ve used
+              the setting and atmosphere, notably the rain-soaked neighbourhood,
+              as a symbol of the protagonist&apos;s emotional turmoil while the
+              mother&apos;s umbrella represents her protective love. Through the
+              protagonist&apos;s self-absorbed teenage years to the climactic
+              argument and subsequent epiphany, the plot highlights the
+              evolution of the protagonist&apos;s understanding of his
+              mother&apos;s sacrifices. The use of metaphor, such as the mother
+              being an &apos;invisible shield&apos; and &apos;seasoned
+              acrobat&apos;, underscores her strength and selflessness,
+              reinforcing the theme.
             </Text>
           </Stack>
         </Box>
