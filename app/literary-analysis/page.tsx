@@ -84,17 +84,18 @@ export default function LiteraryAnalysis() {
           >
             <Heading fontSize={"3xl"}>Reflection</Heading>
             <Text color={"gray.600"} fontSize={"md"}>
-              In the original draft, I did not fully explain how the poem
-              portrays growing up as an illness. I simply stated that the
-              persona feels it is like an illness without analyzing the vivid
-              imagery comparing it to measles, mumps, and chickenpox. The
-              rewritten essay goes into more detail on how these metaphors
-              convey that maturation is a painful, distressing process. I also
-              missed the opportunity to discuss the repetition of
-              &quot;something&quot; which establishes a feeling of dread. The
-              new draft provides an improved analysis by looking closely at the
-              metaphors, repetition, and word choice to reveal the
-              persona&apos;s perspective.
+              The rewritten essay offers a more comprehensive analysis of how
+              the poem uses imagery to present the experience of growing up as a
+              challenging process. By further exploring the metaphorical
+              comparisons of measles, mumps, and chickenpox, I highlighted the
+              painful nature of maturation. Furthermore, the rewritten draft
+              addresses the missed opportunity of discussing the significance of
+              the repetition of &quot;something,&quot; which conveys a sense of
+              unease and apprehension. By further analyzing the word choice and
+              repetition, I provided an insightful understanding of the
+              persona&apos;s perspective. Overall, the rewritten essay presents
+              a more detailed analysis of the poem&apos;s use of imagery.{" "}
+              <b>(100 words)</b>
             </Text>
           </Stack>
         </Box>

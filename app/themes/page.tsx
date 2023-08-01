@@ -104,7 +104,7 @@ export default function Themes() {
               mother&apos;s sacrifices. The use of metaphor, such as the mother
               being an &apos;invisible shield&apos; and &apos;seasoned
               acrobat&apos;, underscores her strength and selflessness,
-              reinforcing the theme.
+              reinforcing the theme. <b>(96 words)</b>
             </Text>
           </Stack>
         </Box>
