@@ -62,10 +62,10 @@ export default function SplitWithImage() {
           <Heading>Hello, I&apos;m Avner</Heading>
           <Text color={"gray.500"}>
             As an avid coder, I have always been passionate about developing
-            original and creative projects. That's why I decided to leverage my
-            skills and build this website entirely from scratch, showcasing my
-            pursuit of originality and creativity. I hope you enjoy exploring my
-            portfolio as much as I do!
+            original and creative projects. That&apos;s why I decided to
+            leverage my skills and build this website entirely from scratch,
+            showcasing my pursuit of originality and creativity. I hope you
+            enjoy exploring my portfolio as much as I do!
           </Text>
           <Stack
             spacing={4}
