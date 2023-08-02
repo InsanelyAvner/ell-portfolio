@@ -68,8 +68,8 @@ export default function Themes() {
             </Text>
             <Heading>My Mom, My Hero by Avner (rewritten)</Heading>
             <Text color={"gray.500"} fontSize={"lg"} mb="20">
-              This is a short narrative which explores the complex theme of
-              &quot;parent-child relationships&quot;
+              This is a short narrative which explores the complexities of
+              parent-child relationships.
             </Text>
             <div></div>
             <div></div>

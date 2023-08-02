@@ -89,7 +89,7 @@ export default function LiteraryDevices() {
               ‘mournful run’ delivered the thematic message of conflicting
               emotions. The use of nature&apos;s imagery like &apos;autumn
               leaves,&apos; and &apos;twilight&apos; highlighted the idea that
-              transition was an inevitable part of growing up while creating a
+              transition was a natural part of growing up while creating a
               melancholic atmosphere. <b>(99 words)</b>
             </Text>
           </Stack>
