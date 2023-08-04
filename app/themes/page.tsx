@@ -66,7 +66,9 @@ export default function Themes() {
             >
               My Work
             </Text>
-            <Heading>My Mom, My Hero by Avner (rewritten)</Heading>
+            <Heading>
+              My Mom, My Hero by Avner (rewritten, T2W10 Writing Task)
+            </Heading>
             <Text color={"gray.500"} fontSize={"lg"} mb="20">
               This is a short narrative which explores the complexities of
               parent-child relationships.
